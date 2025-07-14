@@ -1,0 +1,9 @@
+data/merged.csv
+data/rating.csv
+rating.csv
+
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
