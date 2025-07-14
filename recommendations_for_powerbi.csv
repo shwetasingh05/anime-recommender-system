@@ -1,0 +1,961 @@
+anime_id,name,genre,user_id
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",15190
+4896.0,Umineko no Naku Koro ni,"Horror, Mystery, Psychological, Supernatural",15190
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",15190
+4752.0,Vampire Knight Guilty,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",15190
+6746.0,Durarara!!,"Action, Mystery, Supernatural",15190
+7724.0,Shiki,"Mystery, Supernatural, Thriller, Vampire",15190
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",15190
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",15190
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",15190
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",15190
+430.0,Fullmetal Alchemist: The Conqueror of Shamballa,"Comedy, Drama, Fantasy, Historical, Military, Shounen",25086
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",25086
+1535.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",25086
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",25086
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",25086
+2759.0,Evangelion: 1.0 You Are (Not) Alone,"Action, Mecha, Sci-Fi",25086
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",25086
+3784.0,Evangelion: 2.0 You Can (Not) Advance,"Action, Mecha, Sci-Fi",25086
+376.0,Elfen Lied Special,"Drama, Ecchi, Horror, Psychological, Supernatural",25086
+71.0,Full Metal Panic!,"Action, Comedy, Mecha, Military, Sci-Fi",25086
+13535.0,Binbougami ga!,"Comedy, Parody, Shounen, Supernatural",27804
+11433.0,Ano Natsu de Matteru,"Comedy, Drama, Romance, Sci-Fi, Slice of Life",27804
+3667.0,Strike Witches,"Action, Ecchi, Magic, Military, Sci-Fi",27804
+9736.0,Astarotte no Omocha!,"Comedy, Demons, Ecchi, Fantasy, Romance, Seinen",27804
+21273.0,Gochuumon wa Usagi Desu ka?,"Comedy, Slice of Life",27804
+2104.0,Seto no Hanayome,"Comedy, Parody, Romance, School",27804
+10456.0,Kyoukaisenjou no Horizon,"Action, Fantasy",27804
+6381.0,Strike Witches 2,"Action, Ecchi, Magic, Military, Sci-Fi",27804
+4192.0,Hayate no Gotoku!!,"Action, Comedy, Harem, Parody, Romance",27804
+76.0,Mahou Shoujo Lyrical Nanoha,"Action, Comedy, Drama, Magic, Super Power",27804
+1535.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",15189
+8630.0,Hidan no Aria,"Action, Comedy, Romance, School",15189
+2787.0,Shakugan no Shana II (Second),"Action, Drama, Fantasy, Romance, School, Supernatural",15189
+355.0,Shakugan no Shana,"Action, Drama, Fantasy, Romance, School, Supernatural",15189
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",15189
+9330.0,Dragon Crisis!,"Action, Magic, Romance, School, Seinen, Supernatural",15189
+10155.0,Dog Days,"Action, Adventure, Fantasy, Magic",15189
+8425.0,Gosick,"Drama, Historical, Mystery, Romance",15189
+10578.0,C³,"Action, Comedy, Ecchi, School, Supernatural",15189
+6773.0,Shakugan no Shana III (Final),"Action, Drama, Fantasy, Romance, Supernatural",15189
+223.0,Dragon Ball,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",41581
+22199.0,Akame ga Kill!,"Action, Adventure, Fantasy",41581
+356.0,Fate/stay night,"Action, Fantasy, Magic, Romance, Supernatural",41581
+19815.0,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",41581
+22513.0,Freely Tomorrow,Music,41581
+30269.0,Momoiro Milk,Hentai,41581
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",41581
+18115.0,Magi: The Kingdom of Magic,"Action, Adventure, Fantasy, Magic, Shounen",41581
+13601.0,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",41581
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",41581
+1686.0,Bleach Movie 1: Memories of Nobody,"Action, Adventure, Super Power",14654
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",14654
+762.0,Bleach: Memories in the Rain,"Action, Adventure, Drama, Shounen, Supernatural",14654
+834.0,Bleach: The Sealed Sword Frenzy,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",14654
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",14654
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",14654
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",14654
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",14654
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",14654
+2759.0,Evangelion: 1.0 You Are (Not) Alone,"Action, Mecha, Sci-Fi",14654
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",13767
+513.0,Tenkuu no Shiro Laputa,"Adventure, Fantasy, Romance, Sci-Fi",13767
+2034.0,Lovely★Complex,"Comedy, Romance, Shoujo",13767
+512.0,Majo no Takkyuubin,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",13767
+572.0,Kaze no Tani no Nausicaä,"Adventure, Fantasy",13767
+12189.0,Hyouka,"Mystery, School, Slice of Life",13767
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",13767
+7711.0,Karigurashi no Arrietty,Fantasy,13767
+22785.0,Sono Hanabira ni Kuchizuke wo: Risa x Miya Gekijou,"Comedy, Romance, School, Shoujo Ai, Slice of Life",13767
+20507.0,Noragami,"Action, Adventure, Shounen, Supernatural",13767
+4814.0,Junjou Romantica 2,"Comedy, Drama, Romance, Shounen Ai",38687
+243.0,Gravitation,"Comedy, Music, Romance, Shoujo, Shounen Ai",38687
+4654.0,Toaru Majutsu no Index,"Action, Magic, Sci-Fi, Super Power",38687
+530.0,Bishoujo Senshi Sailor Moon,"Demons, Magic, Romance, Shoujo",38687
+61.0,D.N.Angel,"Action, Comedy, Fantasy, Magic, Romance, School, Shoujo",38687
+523.0,Tonari no Totoro,"Adventure, Comedy, Supernatural",38687
+918.0,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",38687
+22265.0,Free!: Eternal Summer,"Comedy, School, Slice of Life, Sports",38687
+746.0,Papa to Kiss in the Dark,"Comedy, Drama, Romance, Yaoi",38687
+4722.0,Skip Beat!,"Comedy, Drama, Romance, Shoujo",38687
+7791.0,K-On!!,"Comedy, Music, School, Slice of Life",28399
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",28399
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",28399
+4181.0,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",28399
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",28399
+5958.0,Sora no Otoshimono,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",28399
+4063.0,Sekirei,"Action, Comedy, Ecchi, Harem, Super Power",28399
+6347.0,Baka to Test to Shoukanjuu,"Comedy, Romance, School, Super Power",28399
+7088.0,Ichiban Ushiro no Daimaou,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, School, Shounen",28399
+3455.0,To LOVE-Ru,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi",28399
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",20435
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",20435
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",20435
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",20435
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",20435
+6.0,Trigun,"Action, Comedy, Sci-Fi",20435
+5.0,Cowboy Bebop: Tengoku no Tobira,"Action, Drama, Mystery, Sci-Fi, Space",20435
+457.0,Mushishi,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",20435
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",20435
+1530.0,Kanon (2006),"Drama, Romance, Slice of Life, Supernatural",20435
+21881.0,Sword Art Online II,"Action, Adventure, Fantasy, Game, Romance",888
+8841.0,Kore wa Zombie Desu ka?,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",888
+23269.0,Hello!! Kiniro Mosaic,"Comedy, School, Slice of Life",888
+22513.0,Freely Tomorrow,Music,888
+20785.0,Mahouka Koukou no Rettousei,"Magic, Romance, School, Sci-Fi, Supernatural",888
+23837.0,Meisou! Underworld,"Action, Supernatural, Thriller",888
+10790.0,Kore wa Zombie Desu ka? of the Dead,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",888
+11759.0,Accel World,"Action, Game, Romance, School, Sci-Fi",888
+15225.0,Hentai Ouji to Warawanai Neko.,"Comedy, Harem, Romance, School, Seinen, Supernatural",888
+8425.0,Gosick,"Drama, Historical, Mystery, Romance",888
+223.0,Dragon Ball,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",28372
+269.0,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",28372
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",28372
+6746.0,Durarara!!,"Action, Mystery, Supernatural",28372
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",28372
+4835.0,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,"Action, Comedy, Shounen, Super Power, Supernatural",28372
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",28372
+10087.0,Fate/Zero,"Action, Fantasy, Supernatural",28372
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",28372
+8525.0,Kami nomi zo Shiru Sekai,"Comedy, Harem, Romance, Shounen, Supernatural",28372
+1818.0,Claymore,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",47117
+790.0,Ergo Proxy,"Mystery, Psychological, Sci-Fi",47117
+801.0,Ghost in the Shell: Stand Alone Complex 2nd GIG,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",47117
+339.0,Serial Experiments Lain,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",47117
+4181.0,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",47117
+1889.0,Higurashi no Naku Koro ni Kai,"Mystery, Psychological, Supernatural, Thriller",47117
+442.0,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",47117
+33.0,Berserk,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",47117
+1726.0,Devil May Cry,"Action, Demons, Fantasy",47117
+936.0,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",47117
+1840.0,Zero no Tsukaima: Futatsuki no Kishi,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",49763
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",49763
+3712.0,Zero no Tsukaima: Princesses no Rondo,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",49763
+4382.0,Suzumiya Haruhi no Yuuutsu (2009),"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",49763
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",49763
+355.0,Shakugan no Shana,"Action, Drama, Fantasy, Romance, School, Supernatural",49763
+1887.0,Lucky☆Star,"Comedy, Parody, School, Slice of Life",49763
+11319.0,Zero no Tsukaima F,"Adventure, Ecchi, Fantasy, Magic, Romance",49763
+2787.0,Shakugan no Shana II (Second),"Action, Drama, Fantasy, Romance, School, Supernatural",49763
+5680.0,K-On!,"Comedy, Music, School, Slice of Life",49763
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",32664
+14227.0,Tonari no Kaibutsu-kun,"Comedy, Romance, School, Shoujo, Slice of Life",32664
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",32664
+10408.0,Hotarubi no Mori e,"Drama, Romance, Shoujo, Supernatural",32664
+3470.0,Special A,"Comedy, Romance, School, Shoujo",32664
+11013.0,Inu x Boku SS,"Comedy, Romance, Shounen, Supernatural",32664
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",32664
+3731.0,Itazura na Kiss,"Comedy, Romance, Shoujo",32664
+4722.0,Skip Beat!,"Comedy, Drama, Romance, Shoujo",32664
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",32664
+7054.0,Kaichou wa Maid-sama!,"Comedy, Romance, School, Shoujo",8643
+19815.0,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",8643
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",8643
+2025.0,Darker than Black: Kuro no Keiyakusha,"Action, Mystery, Sci-Fi, Super Power",8643
+10793.0,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",8643
+2787.0,Shakugan no Shana II (Second),"Action, Drama, Fantasy, Romance, School, Supernatural",8643
+28221.0,Etotama,"Action, Comedy, Fantasy",8643
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",8643
+21881.0,Sword Art Online II,"Action, Adventure, Fantasy, Game, Romance",8643
+11617.0,High School DxD,"Comedy, Demons, Ecchi, Harem, Romance, School",8643
+223.0,Dragon Ball,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",19696
+1313.0,Digimon Adventure 02,"Action, Adventure, Comedy, Drama, Fantasy, Kids",19696
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",19696
+874.0,Digimon Tamers,"Adventure, Comedy, Drama, Fantasy, Shounen",19696
+528.0,Pokemon: Mewtwo no Gyakushuu,"Action, Adventure, Comedy, Drama, Fantasy, Kids",19696
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",19696
+1117.0,Pokemon: Maboroshi no Pokemon Lugia Bakutan,"Adventure, Comedy, Drama, Fantasy, Kids",19696
+1118.0,Pokemon: Kesshoutou no Teiou Entei,"Action, Adventure, Comedy, Drama, Fantasy, Kids",19696
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",19696
+5958.0,Sora no Otoshimono,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",19696
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",66579
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",66579
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",66579
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",66579
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",66579
+2167.0,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",66579
+4181.0,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",66579
+6347.0,Baka to Test to Shoukanjuu,"Comedy, Romance, School, Super Power",66579
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",66579
+9253.0,Steins;Gate,"Sci-Fi, Thriller",66579
+513.0,Tenkuu no Shiro Laputa,"Adventure, Fantasy, Romance, Sci-Fi",63313
+72.0,Full Metal Panic? Fumoffu,"Action, Comedy, School",63313
+189.0,Love Hina,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",63313
+317.0,Final Fantasy VII: Advent Children,"Action, Fantasy, Super Power",63313
+1.0,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",63313
+73.0,Full Metal Panic! The Second Raid,"Action, Mecha, Military",63313
+762.0,Bleach: Memories in the Rain,"Action, Adventure, Drama, Shounen, Supernatural",63313
+578.0,Hotaru no Haka,"Drama, Historical",63313
+376.0,Elfen Lied Special,"Drama, Ecchi, Horror, Psychological, Supernatural",63313
+269.0,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",63313
+30.0,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",67960
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",67960
+19815.0,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",67960
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",67960
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",67960
+28221.0,Etotama,"Action, Comedy, Fantasy",67960
+6746.0,Durarara!!,"Action, Mystery, Supernatural",67960
+1519.0,Black Lagoon: The Second Barrage,"Action, Seinen",67960
+5.0,Cowboy Bebop: Tengoku no Tobira,"Action, Drama, Mystery, Sci-Fi, Space",67960
+20507.0,Noragami,"Action, Adventure, Shounen, Supernatural",67960
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",60112
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",60112
+6347.0,Baka to Test to Shoukanjuu,"Comedy, Romance, School, Super Power",60112
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",60112
+2167.0,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",60112
+4181.0,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",60112
+9253.0,Steins;Gate,"Sci-Fi, Thriller",60112
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",60112
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",60112
+10067.0,Angel Beats!: Another Epilogue,"Drama, School, Supernatural",60112
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",21415
+552.0,Digimon Adventure,"Action, Adventure, Comedy, Fantasy, Kids",21415
+4654.0,Toaru Majutsu no Index,"Action, Magic, Sci-Fi, Super Power",21415
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",21415
+8425.0,Gosick,"Drama, Historical, Mystery, Romance",21415
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",21415
+6773.0,Shakugan no Shana III (Final),"Action, Drama, Fantasy, Romance, Supernatural",21415
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",21415
+8937.0,Toaru Majutsu no Index II,"Action, Magic, Sci-Fi, Super Power",21415
+8841.0,Kore wa Zombie Desu ka?,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",21415
+5680.0,K-On!,"Comedy, Music, School, Slice of Life",68525
+7791.0,K-On!!,"Comedy, Music, School, Slice of Life",68525
+8769.0,Ore no Imouto ga Konnani Kawaii Wake ga Nai,"Comedy, Seinen, Slice of Life",68525
+9253.0,Steins;Gate,"Sci-Fi, Thriller",68525
+13659.0,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,"Comedy, Seinen, Slice of Life",68525
+11887.0,Kokoro Connect,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",68525
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",68525
+8795.0,Panty &amp; Stocking with Garterbelt,"Action, Comedy, Ecchi, Parody, Supernatural",68525
+1887.0,Lucky☆Star,"Comedy, Parody, School, Slice of Life",68525
+6594.0,Katanagatari,"Action, Adventure, Historical, Martial Arts, Romance",68525
+2904.0,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",21872
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",21872
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",21872
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",21872
+4752.0,Vampire Knight Guilty,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",21872
+2251.0,Baccano!,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",21872
+430.0,Fullmetal Alchemist: The Conqueror of Shamballa,"Comedy, Drama, Fantasy, Historical, Military, Shounen",21872
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",21872
+7054.0,Kaichou wa Maid-sama!,"Comedy, Romance, School, Shoujo",21872
+1482.0,D.Gray-man,"Action, Adventure, Comedy, Shounen",21872
+4181.0,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",57901
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",57901
+4059.0,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen","Drama, Romance, School, Slice of Life",57901
+3652.0,Higurashi no Naku Koro ni Rei,"Comedy, Mystery, Psychological, Supernatural, Thriller",57901
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",57901
+5680.0,K-On!,"Comedy, Music, School, Slice of Life",57901
+6351.0,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen","Drama, Romance, School",57901
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",57901
+355.0,Shakugan no Shana,"Action, Drama, Fantasy, Romance, School, Supernatural",57901
+64.0,Rozen Maiden,"Action, Comedy, Drama, Magic, Seinen",57901
+20583.0,Haikyuu!!,"Comedy, Drama, School, Shounen, Sports",58415
+6746.0,Durarara!!,"Action, Mystery, Supernatural",58415
+237.0,Eureka Seven,"Adventure, Drama, Mecha, Romance, Sci-Fi",58415
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",58415
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",58415
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",58415
+18507.0,Free!,"Comedy, School, Slice of Life, Sports",58415
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",58415
+232.0,Cardcaptor Sakura,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, School, Shoujo",58415
+28883.0,Hidan no Aria AA,"Action, School, Shoujo Ai",58415
+11771.0,Kuroko no Basket,"Comedy, School, Shounen, Sports",8870
+16894.0,Kuroko no Basket 2nd Season,"Comedy, School, Shounen, Sports",8870
+24405.0,World Trigger,"Action, School, Sci-Fi, Shounen, Supernatural",8870
+28883.0,Hidan no Aria AA,"Action, School, Shoujo Ai",8870
+18507.0,Free!,"Comedy, School, Slice of Life, Sports",8870
+22265.0,Free!: Eternal Summer,"Comedy, School, Slice of Life, Sports",8870
+23269.0,Hello!! Kiniro Mosaic,"Comedy, School, Slice of Life",8870
+23285.0,Poulette no Isu,"Comedy, Kids, Slice of Life",8870
+11061.0,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",8870
+28157.0,Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty The Animation,Hentai,8870
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",13524
+1535.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",13524
+11771.0,Kuroko no Basket,"Comedy, School, Shounen, Sports",13524
+10620.0,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",13524
+813.0,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",13524
+2472.0,Naruto: Shippuuden Movie 1,"Action, Adventure, Comedy, Fantasy, Shounen",13524
+442.0,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",13524
+16894.0,Kuroko no Basket 2nd Season,"Comedy, School, Shounen, Sports",13524
+22319.0,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",13524
+4437.0,Naruto: Shippuuden Movie 2 - Kizuna,"Action, Martial Arts, Shounen, Supernatural",13524
+355.0,Shakugan no Shana,"Action, Drama, Fantasy, Romance, School, Supernatural",67533
+2787.0,Shakugan no Shana II (Second),"Action, Drama, Fantasy, Romance, School, Supernatural",67533
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",67533
+6773.0,Shakugan no Shana III (Final),"Action, Drama, Fantasy, Romance, Supernatural",67533
+189.0,Love Hina,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",67533
+3455.0,To LOVE-Ru,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi",67533
+2993.0,Rosario to Vampire,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",67533
+10620.0,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",67533
+263.0,Hajime no Ippo,"Comedy, Drama, Shounen, Sports",67533
+4214.0,Rosario to Vampire Capu2,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",67533
+513.0,Tenkuu no Shiro Laputa,"Adventure, Fantasy, Romance, Sci-Fi",7877
+530.0,Bishoujo Senshi Sailor Moon,"Demons, Magic, Romance, Shoujo",7877
+578.0,Hotaru no Haka,"Drama, Historical",7877
+59.0,Chobits,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",7877
+585.0,Mimi wo Sumaseba,"Adventure, Drama, Fantasy, Romance, Slice of Life",7877
+740.0,Bishoujo Senshi Sailor Moon R,"Demons, Magic, Romance, Shoujo",7877
+532.0,Bishoujo Senshi Sailor Moon S,"Drama, Magic, Romance, Shoujo",7877
+45.0,Rurouni Kenshin: Meiji Kenkaku Romantan,"Action, Adventure, Comedy, Historical, Romance, Samurai",7877
+7791.0,K-On!!,"Comedy, Music, School, Slice of Life",7877
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",7877
+30.0,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",35272
+552.0,Digimon Adventure,"Action, Adventure, Comedy, Fantasy, Kids",35272
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",35272
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",35272
+1313.0,Digimon Adventure 02,"Action, Adventure, Comedy, Drama, Fantasy, Kids",35272
+3785.0,Evangelion: 3.0 You Can (Not) Redo,"Action, Mecha, Sci-Fi",35272
+874.0,Digimon Tamers,"Adventure, Comedy, Drama, Fantasy, Shounen",35272
+5081.0,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",35272
+11597.0,Nisemonogatari,"Comedy, Mystery, Supernatural",35272
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",35272
+1210.0,NHK ni Youkoso!,"Comedy, Drama, Psychological, Romance",51127
+33.0,Berserk,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",51127
+12531.0,Sakamichi no Apollon,"Drama, Josei, Music, Romance, School",51127
+136.0,Hunter x Hunter,"Action, Adventure, Shounen, Super Power",51127
+329.0,Planetes,"Drama, Romance, Sci-Fi, Seinen, Space",51127
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",51127
+585.0,Mimi wo Sumaseba,"Adventure, Drama, Fantasy, Romance, Slice of Life",51127
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",51127
+387.0,Haibane Renmei,"Drama, Fantasy, Mystery, Psychological, Slice of Life",51127
+44.0,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",51127
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",15856
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",15856
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",15856
+10620.0,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",15856
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",15856
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",15856
+1818.0,Claymore,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",15856
+10793.0,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",15856
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",15856
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",15856
+813.0,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",52288
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",52288
+6.0,Trigun,"Action, Comedy, Sci-Fi",52288
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",52288
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",52288
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",52288
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",52288
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",52288
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",52288
+45.0,Rurouni Kenshin: Meiji Kenkaku Romantan,"Action, Adventure, Comedy, Historical, Romance, Samurai",52288
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",30509
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",30509
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",30509
+19815.0,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",30509
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",30509
+14719.0,JoJo no Kimyou na Bouken (TV),"Action, Adventure, Shounen, Supernatural, Vampire",30509
+20899.0,JoJo no Kimyou na Bouken: Stardust Crusaders,"Action, Adventure, Drama, Shounen, Supernatural",30509
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",30509
+8795.0,Panty &amp; Stocking with Garterbelt,"Action, Comedy, Ecchi, Parody, Supernatural",30509
+17074.0,Monogatari Series: Second Season,"Comedy, Mystery, Romance, Supernatural, Vampire",30509
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",46541
+21881.0,Sword Art Online II,"Action, Adventure, Fantasy, Game, Romance",46541
+6702.0,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",46541
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",46541
+9253.0,Steins;Gate,"Sci-Fi, Thriller",46541
+6045.0,Kimi ni Todoke,"Romance, School, Shoujo, Slice of Life",46541
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",46541
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",46541
+14289.0,Sukitte Ii na yo.,"Romance, School, Shoujo",46541
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",46541
+22319.0,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",44792
+22513.0,Freely Tomorrow,Music,44792
+22199.0,Akame ga Kill!,"Action, Adventure, Fantasy",44792
+28221.0,Etotama,"Action, Comedy, Fantasy",44792
+20507.0,Noragami,"Action, Adventure, Shounen, Supernatural",44792
+23281.0,Psycho-Pass 2,"Action, Police, Psychological, Sci-Fi",44792
+19815.0,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",44792
+26213.0,Free!: Eternal Summer Special,"Comedy, School, Slice of Life",44792
+21881.0,Sword Art Online II,"Action, Adventure, Fantasy, Game, Romance",44792
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",44792
+1575.0,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",14776
+7674.0,Bakuman.,"Comedy, Romance, Shounen",14776
+10793.0,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",14776
+10620.0,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",14776
+1604.0,Katekyo Hitman Reborn!,"Action, Comedy, Shounen, Super Power",14776
+14227.0,Tonari no Kaibutsu-kun,"Comedy, Romance, School, Shoujo, Slice of Life",14776
+14345.0,Btooom!,"Action, Psychological, Sci-Fi, Seinen",14776
+10030.0,Bakuman. 2nd Season,"Comedy, Drama, Romance, Shounen",14776
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",14776
+6347.0,Baka to Test to Shoukanjuu,"Comedy, Romance, School, Super Power",14776
+20583.0,Haikyuu!!,"Comedy, Drama, School, Shounen, Sports",53712
+4437.0,Naruto: Shippuuden Movie 2 - Kizuna,"Action, Martial Arts, Shounen, Supernatural",53712
+269.0,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",53712
+14467.0,K,"Action, Super Power, Supernatural",53712
+2144.0,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!,"Action, Adventure",53712
+5060.0,Hetalia Axis Powers,"Comedy, Historical, Parody",53712
+5530.0,Pandora Hearts,"Adventure, Fantasy, Mystery, Shounen, Supernatural",53712
+1482.0,D.Gray-man,"Action, Adventure, Comedy, Shounen",53712
+6793.0,Kuroshitsuji Special,"Comedy, Demons, Parody",53712
+741.0,Sensitive Pornograph,"Comedy, Drama, Hentai, Romance, Yaoi",53712
+6746.0,Durarara!!,"Action, Mystery, Supernatural",34195
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",34195
+6707.0,Kuroshitsuji II,"Action, Comedy, Demons, Fantasy, Shounen, Supernatural",34195
+4155.0,One Piece Film: Strong World,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",34195
+918.0,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",34195
+1604.0,Katekyo Hitman Reborn!,"Action, Comedy, Shounen, Super Power",34195
+8408.0,Durarara!! Specials,"Action, Comedy, Supernatural",34195
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",34195
+9969.0,Gintama&#039;,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",34195
+7674.0,Bakuman.,"Comedy, Romance, Shounen",34195
+223.0,Dragon Ball,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",31518
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",31518
+199.0,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",31518
+22297.0,Fate/stay night: Unlimited Blade Works,"Action, Fantasy, Magic, Shounen, Supernatural",31518
+6573.0,Darker than Black: Ryuusei no Gemini,"Action, Mystery, Sci-Fi, Super Power",31518
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",31518
+849.0,Suzumiya Haruhi no Yuuutsu,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",31518
+28695.0,Nansensu Monogatari Dai Ippen: Sarugashima,Adventure,31518
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",31518
+934.0,Higurashi no Naku Koro ni,"Horror, Mystery, Psychological, Supernatural, Thriller",31518
+6707.0,Kuroshitsuji II,"Action, Comedy, Demons, Fantasy, Shounen, Supernatural",5848
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",5848
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",5848
+3092.0,Junjou Romantica,"Comedy, Drama, Romance, Shounen Ai",5848
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",5848
+430.0,Fullmetal Alchemist: The Conqueror of Shamballa,"Comedy, Drama, Fantasy, Historical, Military, Shounen",5848
+2025.0,Darker than Black: Kuro no Keiyakusha,"Action, Mystery, Sci-Fi, Super Power",5848
+4814.0,Junjou Romantica 2,"Comedy, Drama, Romance, Shounen Ai",5848
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",5848
+6746.0,Durarara!!,"Action, Mystery, Supernatural",5848
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",54071
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",54071
+523.0,Tonari no Totoro,"Adventure, Comedy, Supernatural",54071
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",54071
+512.0,Majo no Takkyuubin,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",54071
+2025.0,Darker than Black: Kuro no Keiyakusha,"Action, Mystery, Sci-Fi, Super Power",54071
+2890.0,Gake no Ue no Ponyo,"Adventure, Fantasy",54071
+513.0,Tenkuu no Shiro Laputa,"Adventure, Fantasy, Romance, Sci-Fi",54071
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",54071
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",54071
+857.0,Air Gear,"Action, Comedy, Ecchi, Shounen, Sports",4614
+50.0,Aa! Megami-sama! (TV),"Comedy, Magic, Romance, Seinen, Supernatural",4614
+3299.0,H2O: Footprints in the Sand,"Harem, Romance, School",4614
+6205.0,Kämpfer,"Action, Comedy, Ecchi, Romance, School, Shoujo Ai, Super Power",4614
+4835.0,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,"Action, Comedy, Shounen, Super Power, Supernatural",4614
+150.0,Blood+,"Action, Drama, Horror, Military, Mystery, Supernatural, Vampire",4614
+886.0,Amaenaide yo!! Katsu!!,"Comedy, Ecchi, Harem, Romance, Supernatural",4614
+7148.0,Ladies versus Butlers!,"Comedy, Ecchi, Harem, Romance, School, Seinen",4614
+6747.0,Dance in the Vampire Bund,"Action, Supernatural, Vampire",4614
+6324.0,Omamori Himari,"Action, Comedy, Demons, Ecchi, Harem, Romance, Supernatural",4614
+30.0,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",64118
+2759.0,Evangelion: 1.0 You Are (Not) Alone,"Action, Mecha, Sci-Fi",64118
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",64118
+3785.0,Evangelion: 3.0 You Can (Not) Redo,"Action, Mecha, Sci-Fi",64118
+31.0,Neon Genesis Evangelion: Death &amp; Rebirth,"Drama, Mecha, Psychological, Sci-Fi",64118
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",64118
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",64118
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",64118
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",64118
+11981.0,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,"Drama, Magic, Psychological, Thriller",64118
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",33055
+2993.0,Rosario to Vampire,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",33055
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",33055
+8525.0,Kami nomi zo Shiru Sekai,"Comedy, Harem, Romance, Shounen, Supernatural",33055
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",33055
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",33055
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",33055
+5630.0,Higashi no Eden,"Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",33055
+4214.0,Rosario to Vampire Capu2,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",33055
+10080.0,Kami nomi zo Shiru Sekai II,"Comedy, Harem, Romance, Shounen, Supernatural",33055
+30.0,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",57424
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",57424
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",57424
+467.0,Ghost in the Shell: Stand Alone Complex,"Action, Mecha, Military, Police, Sci-Fi, Seinen",57424
+31.0,Neon Genesis Evangelion: Death &amp; Rebirth,"Drama, Mecha, Psychological, Sci-Fi",57424
+2581.0,Mobile Suit Gundam 00,"Action, Drama, Mecha, Military, Sci-Fi, Space",57424
+5.0,Cowboy Bebop: Tengoku no Tobira,"Action, Drama, Mystery, Sci-Fi, Space",57424
+801.0,Ghost in the Shell: Stand Alone Complex 2nd GIG,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",57424
+3927.0,Mobile Suit Gundam 00 Second Season,"Action, Drama, Mecha, Military, Sci-Fi, Space",57424
+468.0,Ghost in the Shell 2: Innocence,"Mecha, Military, Police, Psychological, Sci-Fi",57424
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",27069
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",27069
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",27069
+4722.0,Skip Beat!,"Comedy, Drama, Romance, Shoujo",27069
+14227.0,Tonari no Kaibutsu-kun,"Comedy, Romance, School, Shoujo, Slice of Life",27069
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",27069
+6707.0,Kuroshitsuji II,"Action, Comedy, Demons, Fantasy, Shounen, Supernatural",27069
+877.0,Nana,"Comedy, Drama, Music, Romance, Shoujo, Slice of Life",27069
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",27069
+1535.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",27069
+269.0,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",49135
+8247.0,Bleach Movie 4: Jigoku-hen,"Action, Comedy, Shounen, Super Power, Supernatural",49135
+2904.0,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",49135
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",49135
+1530.0,Kanon (2006),"Drama, Romance, Slice of Life, Supernatural",49135
+1887.0,Lucky☆Star,"Comedy, Parody, School, Slice of Life",49135
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",49135
+2236.0,Toki wo Kakeru Shoujo,"Adventure, Drama, Romance, Sci-Fi",49135
+7791.0,K-On!!,"Comedy, Music, School, Slice of Life",49135
+317.0,Final Fantasy VII: Advent Children,"Action, Fantasy, Super Power",49135
+1889.0,Higurashi no Naku Koro ni Kai,"Mystery, Psychological, Supernatural, Thriller",8030
+430.0,Fullmetal Alchemist: The Conqueror of Shamballa,"Comedy, Drama, Fantasy, Historical, Military, Shounen",8030
+7338.0,Darker than Black: Kuro no Keiyakusha Gaiden,"Action, Mystery, Sci-Fi, Super Power",8030
+1530.0,Kanon (2006),"Drama, Romance, Slice of Life, Supernatural",8030
+189.0,Love Hina,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",8030
+12365.0,Bakuman. 3rd Season,"Comedy, Drama, Romance, Shounen",8030
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",8030
+1818.0,Claymore,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",8030
+7647.0,Arakawa Under the Bridge,"Comedy, Romance, Seinen",8030
+356.0,Fate/stay night,"Action, Fantasy, Magic, Romance, Supernatural",8030
+269.0,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",23148
+4437.0,Naruto: Shippuuden Movie 2 - Kizuna,"Action, Martial Arts, Shounen, Supernatural",23148
+8247.0,Bleach Movie 4: Jigoku-hen,"Action, Comedy, Shounen, Super Power, Supernatural",23148
+6325.0,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,"Action, Comedy, Martial Arts, Shounen, Super Power",23148
+8246.0,Naruto: Shippuuden Movie 4 - The Lost Tower,"Action, Comedy, Martial Arts, Shounen, Super Power",23148
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",23148
+849.0,Suzumiya Haruhi no Yuuutsu,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",23148
+10589.0,Naruto: Shippuuden Movie 5 - Blood Prison,"Action, Adventure, Martial Arts, Mystery, Shounen, Super Power",23148
+1195.0,Zero no Tsukaima,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",23148
+1840.0,Zero no Tsukaima: Futatsuki no Kishi,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",23148
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",23549
+68.0,Black Cat,"Adventure, Comedy, Sci-Fi, Shounen, Super Power",23549
+1482.0,D.Gray-man,"Action, Adventure, Comedy, Shounen",23549
+177.0,Tsubasa Chronicle,"Action, Adventure, Fantasy, Magic, Romance, Shounen, Supernatural",23549
+61.0,D.N.Angel,"Action, Comedy, Fantasy, Magic, Romance, School, Shoujo",23549
+4081.0,Natsume Yuujinchou,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",23549
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",23549
+857.0,Air Gear,"Action, Comedy, Ecchi, Shounen, Sports",23549
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",23549
+969.0,Tsubasa Chronicle 2nd Season,"Action, Adventure, Drama, Fantasy, Mystery, Romance, Shounen, Supernatural",23549
+10087.0,Fate/Zero,"Action, Fantasy, Supernatural",45304
+2889.0,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,"Action, Adventure, Shounen, Supernatural",45304
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",45304
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",45304
+1313.0,Digimon Adventure 02,"Action, Adventure, Comedy, Drama, Fantasy, Kids",45304
+22297.0,Fate/stay night: Unlimited Blade Works,"Action, Fantasy, Magic, Shounen, Supernatural",45304
+356.0,Fate/stay night,"Action, Fantasy, Magic, Romance, Supernatural",45304
+8247.0,Bleach Movie 4: Jigoku-hen,"Action, Comedy, Shounen, Super Power, Supernatural",45304
+392.0,Yuu☆Yuu☆Hakusho,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",45304
+527.0,Pokemon,"Action, Adventure, Comedy, Fantasy, Kids",45304
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",31045
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",31045
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",31045
+528.0,Pokemon: Mewtwo no Gyakushuu,"Action, Adventure, Comedy, Drama, Fantasy, Kids",31045
+1117.0,Pokemon: Maboroshi no Pokemon Lugia Bakutan,"Adventure, Comedy, Drama, Fantasy, Kids",31045
+19815.0,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",31045
+10793.0,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",31045
+17265.0,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",31045
+1118.0,Pokemon: Kesshoutou no Teiou Entei,"Action, Adventure, Comedy, Drama, Fantasy, Kids",31045
+154.0,Shaman King,"Action, Adventure, Comedy, Drama, Shounen, Supernatural",31045
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",69919
+8246.0,Naruto: Shippuuden Movie 4 - The Lost Tower,"Action, Comedy, Martial Arts, Shounen, Super Power",69919
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",69919
+10589.0,Naruto: Shippuuden Movie 5 - Blood Prison,"Action, Adventure, Martial Arts, Mystery, Shounen, Super Power",69919
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",69919
+13667.0,Naruto: Shippuuden Movie 6 - Road to Ninja,"Action, Adventure, Martial Arts, Shounen, Super Power",69919
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",69919
+9253.0,Steins;Gate,"Sci-Fi, Thriller",69919
+512.0,Majo no Takkyuubin,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",69919
+4472.0,Lucky☆Star: Original na Visual to Animation,"Comedy, Parody, School, Slice of Life",69919
+578.0,Hotaru no Haka,"Drama, Historical",63517
+849.0,Suzumiya Haruhi no Yuuutsu,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",63517
+195.0,Onegai☆Teacher,"Comedy, Drama, Romance, School, Sci-Fi",63517
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",63517
+597.0,Neko no Ongaeshi,"Adventure, Drama, Fantasy",63517
+133.0,Green Green,"Comedy, Ecchi, Romance, School, Slice of Life",63517
+196.0,Onegai☆Twins,"Comedy, Drama, Harem, School, Sci-Fi",63517
+7674.0,Bakuman.,"Comedy, Romance, Shounen",63517
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",63517
+63.0,DearS,"Comedy, Ecchi, Harem, Romance, Sci-Fi",63517
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",66776
+28157.0,Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty The Animation,Hentai,66776
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",66776
+28105.0,Shirobako Specials,"Adventure, Comedy",66776
+8769.0,Ore no Imouto ga Konnani Kawaii Wake ga Nai,"Comedy, Seinen, Slice of Life",66776
+23277.0,Saenai Heroine no Sodatekata,"Comedy, Ecchi, Harem, Romance, School",66776
+442.0,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",66776
+4382.0,Suzumiya Haruhi no Yuuutsu (2009),"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",66776
+10863.0,Steins;Gate: Oukoubakko no Poriomania,"Sci-Fi, Thriller",66776
+17895.0,Golden Time,"Comedy, Romance, Seinen",66776
+199.0,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",58098
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",58098
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",58098
+5630.0,Higashi no Eden,"Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",58098
+14345.0,Btooom!,"Action, Psychological, Sci-Fi, Seinen",58098
+7338.0,Darker than Black: Kuro no Keiyakusha Gaiden,"Action, Mystery, Sci-Fi, Super Power",58098
+5680.0,K-On!,"Comedy, Music, School, Slice of Life",58098
+14467.0,K,"Action, Super Power, Supernatural",58098
+10863.0,Steins;Gate: Oukoubakko no Poriomania,"Sci-Fi, Thriller",58098
+5341.0,Ookami to Koushinryou II,"Adventure, Fantasy, Historical, Romance",58098
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",16091
+6746.0,Durarara!!,"Action, Mystery, Supernatural",16091
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",16091
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",16091
+6880.0,Deadman Wonderland,"Action, Horror, Sci-Fi",16091
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",16091
+934.0,Higurashi no Naku Koro ni,"Horror, Mystery, Psychological, Supernatural, Thriller",16091
+1889.0,Higurashi no Naku Koro ni Kai,"Mystery, Psychological, Supernatural, Thriller",16091
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",16091
+7724.0,Shiki,"Mystery, Supernatural, Thriller, Vampire",16091
+25149.0,The Deer&#039;s Bell,Kids,44600
+18277.0,Strike the Blood,"Action, Ecchi, Fantasy, Harem, School, Shounen, Supernatural, Vampire",44600
+17729.0,Grisaia no Kajitsu,"Drama, Harem, Psychological, Romance, School",44600
+20785.0,Mahouka Koukou no Rettousei,"Magic, Romance, School, Sci-Fi, Supernatural",44600
+22865.0,Rokujouma no Shinryakusha!? (TV),"Comedy, Harem, Romance, School, Supernatural",44600
+24453.0,Fetikano!,Hentai,44600
+20787.0,Black Bullet,"Action, Mystery, Sci-Fi, Seinen",44600
+25393.0,Master of Torque 2,"Action, Sci-Fi",44600
+22661.0,One Piece: Cry Heart,"Fantasy, Shounen",44600
+19163.0,Date A Live II,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",44600
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",26599
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",26599
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",26599
+813.0,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",26599
+24.0,School Rumble,"Comedy, Romance, School, Shounen",26599
+846.0,School Rumble Ni Gakki,"Comedy, Romance, School, Shounen",26599
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",26599
+245.0,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",26599
+889.0,Black Lagoon,"Action, Seinen",26599
+59.0,Chobits,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",26599
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",6420
+5081.0,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",6420
+9919.0,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",6420
+10719.0,Boku wa Tomodachi ga Sukunai,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",6420
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",6420
+13759.0,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",6420
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",6420
+6045.0,Kimi ni Todoke,"Romance, School, Shoujo, Slice of Life",6420
+5681.0,Summer Wars,"Comedy, Sci-Fi",6420
+8516.0,Baka to Test to Shoukanjuu Ni!,"Comedy, Romance, School, Super Power",6420
+32.0,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",65500
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",65500
+1.0,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",65500
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",65500
+523.0,Tonari no Totoro,"Adventure, Comedy, Supernatural",65500
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",65500
+849.0,Suzumiya Haruhi no Yuuutsu,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",65500
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",65500
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",65500
+5681.0,Summer Wars,"Comedy, Sci-Fi",65500
+6746.0,Durarara!!,"Action, Mystery, Supernatural",64469
+846.0,School Rumble Ni Gakki,"Comedy, Romance, School, Shounen",64469
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",64469
+1120.0,Pokemon: Mizu no Miyako no Mamorigami Latias to Latios,"Adventure, Comedy, Drama, Fantasy, Kids",64469
+4063.0,Sekirei,"Action, Comedy, Ecchi, Harem, Super Power",64469
+120.0,Fruits Basket,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",64469
+834.0,Bleach: The Sealed Sword Frenzy,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",64469
+3470.0,Special A,"Comedy, Romance, School, Shoujo",64469
+170.0,Slam Dunk,"Comedy, Drama, School, Shounen, Sports",64469
+1709.0,Pokemon: Mewtwo! Ware wa Koko ni Ari,"Action, Adventure, Comedy, Drama, Fantasy, Kids",64469
+457.0,Mushishi,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",55049
+2025.0,Darker than Black: Kuro no Keiyakusha,"Action, Mystery, Sci-Fi, Super Power",55049
+1210.0,NHK ni Youkoso!,"Comedy, Drama, Psychological, Romance",55049
+877.0,Nana,"Comedy, Drama, Music, Romance, Shoujo, Slice of Life",55049
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",55049
+240.0,Genshiken,"Comedy, Parody, Slice of Life",55049
+65.0,Rozen Maiden: Träumend,"Action, Comedy, Drama, Magic, Seinen",55049
+10162.0,Usagi Drop,"Josei, Slice of Life",55049
+24.0,School Rumble,"Comedy, Romance, School, Shounen",55049
+256.0,Hoshi no Koe,"Drama, Mecha, Romance, Sci-Fi, Space",55049
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",13385
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",13385
+6.0,Trigun,"Action, Comedy, Sci-Fi",13385
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",13385
+1818.0,Claymore,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",13385
+790.0,Ergo Proxy,"Mystery, Psychological, Sci-Fi",13385
+245.0,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",13385
+45.0,Rurouni Kenshin: Meiji Kenkaku Romantan,"Action, Adventure, Comedy, Historical, Romance, Samurai",13385
+430.0,Fullmetal Alchemist: The Conqueror of Shamballa,"Comedy, Drama, Fantasy, Historical, Military, Shounen",13385
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",13385
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",50877
+11597.0,Nisemonogatari,"Comedy, Mystery, Supernatural",50877
+2236.0,Toki wo Kakeru Shoujo,"Adventure, Drama, Romance, Sci-Fi",50877
+15689.0,Nekomonogatari: Kuro,"Comedy, Romance, Supernatural",50877
+17074.0,Monogatari Series: Second Season,"Comedy, Mystery, Romance, Supernatural, Vampire",50877
+5681.0,Summer Wars,"Comedy, Sci-Fi",50877
+2167.0,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",50877
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",50877
+6746.0,Durarara!!,"Action, Mystery, Supernatural",50877
+11771.0,Kuroko no Basket,"Comedy, School, Shounen, Sports",50877
+59.0,Chobits,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",56456
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",56456
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",56456
+245.0,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",56456
+195.0,Onegai☆Teacher,"Comedy, Drama, Romance, School, Sci-Fi",56456
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",56456
+442.0,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",56456
+2472.0,Naruto: Shippuuden Movie 1,"Action, Adventure, Comedy, Fantasy, Shounen",56456
+24.0,School Rumble,"Comedy, Romance, School, Shounen",56456
+936.0,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",56456
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",46534
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",46534
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",46534
+71.0,Full Metal Panic!,"Action, Comedy, Mecha, Military, Sci-Fi",46534
+72.0,Full Metal Panic? Fumoffu,"Action, Comedy, School",46534
+317.0,Final Fantasy VII: Advent Children,"Action, Fantasy, Super Power",46534
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",46534
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",46534
+908.0,Fullmetal Alchemist: Premium Collection,"Comedy, Fantasy, Shounen",46534
+73.0,Full Metal Panic! The Second Raid,"Action, Mecha, Military",46534
+523.0,Tonari no Totoro,"Adventure, Comedy, Supernatural",948
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",948
+3785.0,Evangelion: 3.0 You Can (Not) Redo,"Action, Mecha, Sci-Fi",948
+1689.0,Byousoku 5 Centimeter,"Drama, Romance, Slice of Life",948
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",948
+10620.0,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",948
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",948
+5681.0,Summer Wars,"Comedy, Sci-Fi",948
+121.0,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",948
+120.0,Fruits Basket,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",948
+2963.0,Minami-ke,"Comedy, School, Slice of Life",45522
+8675.0,Seitokai Yakuindomo,"Comedy, School, Shounen, Slice of Life",45522
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",45522
+9289.0,Hanasaku Iroha,"Comedy, Drama, Seinen, Slice of Life",45522
+10162.0,Usagi Drop,"Josei, Slice of Life",45522
+8557.0,Shinryaku! Ika Musume,"Comedy, Shounen, Slice of Life",45522
+13601.0,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",45522
+205.0,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",45522
+5205.0,Kara no Kyoukai 7: Satsujin Kousatsu (Kou),"Action, Mystery, Romance, Supernatural, Thriller",45522
+21881.0,Sword Art Online II,"Action, Adventure, Fantasy, Game, Romance",45522
+5630.0,Higashi no Eden,"Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",5873
+2605.0,Sayonara Zetsubou Sensei,"Comedy, Parody, School",5873
+1530.0,Kanon (2006),"Drama, Romance, Slice of Life, Supernatural",5873
+11179.0,Papa no Iukoto wo Kikinasai!,"Comedy, Romance, Slice of Life",5873
+4744.0,Akaneiro ni Somaru Saka,"Comedy, Harem, Romance, School",5873
+4192.0,Hayate no Gotoku!!,"Action, Comedy, Harem, Parody, Romance",5873
+24.0,School Rumble,"Comedy, Romance, School, Shounen",5873
+12291.0,Acchi Kocchi (TV),"Comedy, Romance, School, Seinen, Slice of Life",5873
+22319.0,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",5873
+2403.0,Kodomo no Jikan (TV),"Comedy, Ecchi, School",5873
+552.0,Digimon Adventure,"Action, Adventure, Comedy, Fantasy, Kids",10569
+996.0,Bishoujo Senshi Sailor Moon: Sailor Stars,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, Shoujo",10569
+1313.0,Digimon Adventure 02,"Action, Adventure, Comedy, Drama, Fantasy, Kids",10569
+120.0,Fruits Basket,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",10569
+874.0,Digimon Tamers,"Adventure, Comedy, Drama, Fantasy, Shounen",10569
+4752.0,Vampire Knight Guilty,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",10569
+372.0,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,"Comedy, Drama, Fantasy, Magic, Romance, Shoujo",10569
+1526.0,Pokemon Advanced Generation: Mew to Hadou no Yuusha Lucario,"Action, Adventure, Drama, Fantasy, Kids",10569
+371.0,Cardcaptor Sakura Movie 1,"Comedy, Drama, Fantasy, Magic, Shoujo",10569
+2961.0,Digimon Adventure Movie,"Action, Fantasy, Kids, Sci-Fi",10569
+13759.0,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",68110
+14967.0,Boku wa Tomodachi ga Sukunai Next,"Comedy, Harem, Romance, School, Seinen, Slice of Life",68110
+14813.0,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,"Comedy, Drama, Romance, School",68110
+13659.0,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,"Comedy, Seinen, Slice of Life",68110
+15225.0,Hentai Ouji to Warawanai Neko.,"Comedy, Harem, Romance, School, Seinen, Supernatural",68110
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",68110
+8769.0,Ore no Imouto ga Konnani Kawaii Wake ga Nai,"Comedy, Seinen, Slice of Life",68110
+15583.0,Date A Live,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",68110
+15809.0,Hataraku Maou-sama!,"Comedy, Demons, Fantasy, Romance, Shounen",68110
+11887.0,Kokoro Connect,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",68110
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",36042
+11111.0,Another,"Horror, Mystery, School, Supernatural, Thriller",36042
+6702.0,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",36042
+4224.0,Toradora!,"Comedy, Romance, School, Slice of Life",36042
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",36042
+11887.0,Kokoro Connect,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",36042
+13659.0,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,"Comedy, Seinen, Slice of Life",36042
+12189.0,Hyouka,"Mystery, School, Slice of Life",36042
+14345.0,Btooom!,"Action, Psychological, Sci-Fi, Seinen",36042
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",36042
+3470.0,Special A,"Comedy, Romance, School, Shoujo",45503
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",45503
+7054.0,Kaichou wa Maid-sama!,"Comedy, Romance, School, Shoujo",45503
+71.0,Full Metal Panic!,"Action, Comedy, Mecha, Military, Sci-Fi",45503
+10087.0,Fate/Zero,"Action, Fantasy, Supernatural",45503
+2993.0,Rosario to Vampire,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",45503
+4722.0,Skip Beat!,"Comedy, Drama, Romance, Shoujo",45503
+11741.0,Fate/Zero 2nd Season,"Action, Fantasy, Supernatural, Thriller",45503
+3731.0,Itazura na Kiss,"Comedy, Romance, Shoujo",45503
+20.0,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",45503
+3901.0,Baccano! Specials,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",22213
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",22213
+8408.0,Durarara!! Specials,"Action, Comedy, Supernatural",22213
+6547.0,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",22213
+23179.0,Kyoukai no Rinne,"Comedy, Supernatural",22213
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",22213
+1.0,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",22213
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",22213
+7674.0,Bakuman.,"Comedy, Romance, Shounen",22213
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",22213
+17074.0,Monogatari Series: Second Season,"Comedy, Mystery, Romance, Supernatural, Vampire",49802
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",49802
+7311.0,Suzumiya Haruhi no Shoushitsu,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",49802
+3731.0,Itazura na Kiss,"Comedy, Romance, Shoujo",49802
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",49802
+199.0,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",49802
+2605.0,Sayonara Zetsubou Sensei,"Comedy, Parody, School",49802
+2924.0,ef: A Tale of Memories.,"Drama, Mystery, Romance",49802
+6702.0,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",49802
+64.0,Rozen Maiden,"Action, Comedy, Drama, Magic, Seinen",49802
+3785.0,Evangelion: 3.0 You Can (Not) Redo,"Action, Mecha, Sci-Fi",64430
+31.0,Neon Genesis Evangelion: Death &amp; Rebirth,"Drama, Mecha, Psychological, Sci-Fi",64430
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",64430
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",64430
+1.0,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",64430
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",64430
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",64430
+339.0,Serial Experiments Lain,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",64430
+5.0,Cowboy Bebop: Tengoku no Tobira,"Action, Drama, Mystery, Sci-Fi, Space",64430
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",64430
+223.0,Dragon Ball,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",28692
+11757.0,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",28692
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",28692
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",28692
+1.0,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",28692
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",28692
+5081.0,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",28692
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",28692
+6573.0,Darker than Black: Ryuusei no Gemini,"Action, Mystery, Sci-Fi, Super Power",28692
+7054.0,Kaichou wa Maid-sama!,"Comedy, Romance, School, Shoujo",28692
+2904.0,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",7190
+1889.0,Higurashi no Naku Koro ni Kai,"Mystery, Psychological, Supernatural, Thriller",7190
+5341.0,Ookami to Koushinryou II,"Adventure, Fantasy, Historical, Romance",7190
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",7190
+3652.0,Higurashi no Naku Koro ni Rei,"Comedy, Mystery, Psychological, Supernatural, Thriller",7190
+4752.0,Vampire Knight Guilty,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",7190
+71.0,Full Metal Panic!,"Action, Comedy, Mecha, Military, Sci-Fi",7190
+4898.0,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",7190
+72.0,Full Metal Panic? Fumoffu,"Action, Comedy, School",7190
+1535.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",7190
+4835.0,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,"Action, Comedy, Shounen, Super Power, Supernatural",7953
+813.0,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",7953
+269.0,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",7953
+8247.0,Bleach Movie 4: Jigoku-hen,"Action, Comedy, Shounen, Super Power, Supernatural",7953
+527.0,Pokemon,"Action, Adventure, Comedy, Fantasy, Kids",7953
+1313.0,Digimon Adventure 02,"Action, Adventure, Comedy, Drama, Fantasy, Kids",7953
+874.0,Digimon Tamers,"Adventure, Comedy, Drama, Fantasy, Shounen",7953
+1118.0,Pokemon: Kesshoutou no Teiou Entei,"Action, Adventure, Comedy, Drama, Fantasy, Kids",7953
+2961.0,Digimon Adventure Movie,"Action, Fantasy, Kids, Sci-Fi",7953
+1132.0,Digimon Frontier,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",7953
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",62773
+523.0,Tonari no Totoro,"Adventure, Comedy, Supernatural",62773
+430.0,Fullmetal Alchemist: The Conqueror of Shamballa,"Comedy, Drama, Fantasy, Historical, Military, Shounen",62773
+189.0,Love Hina,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",62773
+527.0,Pokemon,"Action, Adventure, Comedy, Fantasy, Kids",62773
+552.0,Digimon Adventure,"Action, Adventure, Comedy, Fantasy, Kids",62773
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",62773
+512.0,Majo no Takkyuubin,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",62773
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",62773
+1313.0,Digimon Adventure 02,"Action, Adventure, Comedy, Drama, Fantasy, Kids",62773
+7338.0,Darker than Black: Kuro no Keiyakusha Gaiden,"Action, Mystery, Sci-Fi, Super Power",40029
+8247.0,Bleach Movie 4: Jigoku-hen,"Action, Comedy, Shounen, Super Power, Supernatural",40029
+6347.0,Baka to Test to Shoukanjuu,"Comedy, Romance, School, Super Power",40029
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",40029
+9041.0,IS: Infinite Stratos,"Action, Comedy, Harem, Mecha, Sci-Fi",40029
+8516.0,Baka to Test to Shoukanjuu Ni!,"Comedy, Romance, School, Super Power",40029
+10163.0,C: The Money of Soul and Possibility Control,"Action, Mystery, Super Power, Thriller",40029
+14345.0,Btooom!,"Action, Psychological, Sci-Fi, Seinen",40029
+13601.0,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",40029
+11577.0,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,"Sci-Fi, Thriller",40029
+2034.0,Lovely★Complex,"Comedy, Romance, Shoujo",50455
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",50455
+3470.0,Special A,"Comedy, Romance, School, Shoujo",50455
+3457.0,Vampire Knight,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",50455
+530.0,Bishoujo Senshi Sailor Moon,"Demons, Magic, Romance, Shoujo",50455
+523.0,Tonari no Totoro,"Adventure, Comedy, Supernatural",50455
+9756.0,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",50455
+3731.0,Itazura na Kiss,"Comedy, Romance, Shoujo",50455
+2236.0,Toki wo Kakeru Shoujo,"Adventure, Drama, Romance, Sci-Fi",50455
+4752.0,Vampire Knight Guilty,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",50455
+10620.0,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",38632
+22513.0,Freely Tomorrow,Music,38632
+13601.0,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",38632
+889.0,Black Lagoon,"Action, Seinen",38632
+31953.0,New Game!,"Comedy, Slice of Life",38632
+6880.0,Deadman Wonderland,"Action, Horror, Sci-Fi",38632
+22319.0,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",38632
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",38632
+30237.0,Hyakka Ryouran: Samurai After Specials,Ecchi,38632
+8074.0,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",38632
+199.0,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",1805
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",1805
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",1805
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",1805
+18679.0,Kill la Kill,"Action, Comedy, School, Super Power",1805
+513.0,Tenkuu no Shiro Laputa,"Adventure, Fantasy, Romance, Sci-Fi",1805
+512.0,Majo no Takkyuubin,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",1805
+572.0,Kaze no Tani no Nausicaä,"Adventure, Fantasy",1805
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",1805
+6702.0,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",1805
+225.0,Dragon Ball GT,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",23242
+5205.0,Kara no Kyoukai 7: Satsujin Kousatsu (Kou),"Action, Mystery, Romance, Supernatural, Thriller",23242
+5204.0,Kara no Kyoukai 6: Boukyaku Rokuon,"Action, Magic, Mystery, Romance, Supernatural, Thriller",23242
+270.0,Hellsing,"Action, Horror, Seinen, Supernatural, Vampire",23242
+4382.0,Suzumiya Haruhi no Yuuutsu (2009),"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",23242
+2236.0,Toki wo Kakeru Shoujo,"Adventure, Drama, Romance, Sci-Fi",23242
+1887.0,Lucky☆Star,"Comedy, Parody, School, Slice of Life",23242
+3652.0,Higurashi no Naku Koro ni Rei,"Comedy, Mystery, Psychological, Supernatural, Thriller",23242
+853.0,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",23242
+245.0,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",23242
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",57015
+8247.0,Bleach Movie 4: Jigoku-hen,"Action, Comedy, Shounen, Super Power, Supernatural",57015
+14513.0,Magi: The Labyrinth of Magic,"Action, Adventure, Fantasy, Magic, Shounen",57015
+3712.0,Zero no Tsukaima: Princesses no Rondo,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",57015
+17265.0,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",57015
+905.0,Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",57015
+903.0,Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai,"Action, Adventure, Comedy, Demons, Fantasy, Martial Arts, Shounen, Super Power",57015
+22199.0,Akame ga Kill!,"Action, Adventure, Fantasy",57015
+896.0,Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",57015
+894.0,Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",57015
+20583.0,Haikyuu!!,"Comedy, Drama, School, Shounen, Sports",23328
+23269.0,Hello!! Kiniro Mosaic,"Comedy, School, Slice of Life",23328
+30269.0,Momoiro Milk,Hentai,23328
+20507.0,Noragami,"Action, Adventure, Shounen, Supernatural",23328
+16498.0,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",23328
+11771.0,Kuroko no Basket,"Comedy, School, Shounen, Sports",23328
+28221.0,Etotama,"Action, Comedy, Fantasy",23328
+9989.0,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",23328
+16894.0,Kuroko no Basket 2nd Season,"Comedy, School, Shounen, Sports",23328
+23281.0,Psycho-Pass 2,"Action, Police, Psychological, Sci-Fi",23328
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",23487
+1818.0,Claymore,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",23487
+4901.0,Black Lagoon: Roberta&#039;s Blood Trail,"Action, Seinen",23487
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",23487
+71.0,Full Metal Panic!,"Action, Comedy, Mecha, Military, Sci-Fi",23487
+2001.0,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",23487
+790.0,Ergo Proxy,"Mystery, Psychological, Sci-Fi",23487
+43.0,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",23487
+5341.0,Ookami to Koushinryou II,"Adventure, Fantasy, Historical, Romance",23487
+777.0,Hellsing Ultimate,"Action, Horror, Military, Seinen, Supernatural, Vampire",23487
+24405.0,World Trigger,"Action, School, Sci-Fi, Shounen, Supernatural",20496
+28157.0,Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty The Animation,Hentai,20496
+4063.0,Sekirei,"Action, Comedy, Ecchi, Harem, Super Power",20496
+10110.0,Mayo Chiki!,"Comedy, Ecchi, Harem, Romance, School",20496
+17265.0,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",20496
+12189.0,Hyouka,"Mystery, School, Slice of Life",20496
+14749.0,Ore no Kanojo to Osananajimi ga Shuraba Sugiru,"Comedy, Harem, Romance, School",20496
+5277.0,Sekirei: Pure Engagement,"Action, Comedy, Ecchi, Harem, Super Power",20496
+14741.0,Chuunibyou demo Koi ga Shitai!,"Comedy, Drama, Romance, School, Slice of Life",20496
+8407.0,Sora no Otoshimono: Forte,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",20496
+572.0,Kaze no Tani no Nausicaä,"Adventure, Fantasy",34174
+2890.0,Gake no Ue no Ponyo,"Adventure, Fantasy",34174
+6746.0,Durarara!!,"Action, Mystery, Supernatural",34174
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",34174
+2904.0,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",34174
+13601.0,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",34174
+597.0,Neko no Ongaeshi,"Adventure, Drama, Fantasy",34174
+585.0,Mimi wo Sumaseba,"Adventure, Drama, Fantasy, Romance, Slice of Life",34174
+7711.0,Karigurashi no Arrietty,Fantasy,34174
+5681.0,Summer Wars,"Comedy, Sci-Fi",34174
+2966.0,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",20113
+5341.0,Ookami to Koushinryou II,"Adventure, Fantasy, Historical, Romance",20113
+6702.0,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",20113
+1210.0,NHK ni Youkoso!,"Comedy, Drama, Psychological, Romance",20113
+3588.0,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",20113
+6.0,Trigun,"Action, Comedy, Sci-Fi",20113
+23277.0,Saenai Heroine no Sodatekata,"Comedy, Ecchi, Harem, Romance, School",20113
+1689.0,Byousoku 5 Centimeter,"Drama, Romance, Slice of Life",20113
+578.0,Hotaru no Haka,"Drama, Historical",20113
+10793.0,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",20113
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",52724
+195.0,Onegai☆Teacher,"Comedy, Drama, Romance, School, Sci-Fi",52724
+120.0,Fruits Basket,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",52724
+5114.0,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",52724
+2472.0,Naruto: Shippuuden Movie 1,"Action, Adventure, Comedy, Fantasy, Shounen",52724
+936.0,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",52724
+849.0,Suzumiya Haruhi no Yuuutsu,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",52724
+431.0,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",52724
+330.0,Midori no Hibi,"Comedy, Drama, Ecchi, Romance, Shounen",52724
+2759.0,Evangelion: 1.0 You Are (Not) Alone,"Action, Mecha, Sci-Fi",52724
+164.0,Mononoke Hime,"Action, Adventure, Fantasy",53056
+6.0,Trigun,"Action, Comedy, Sci-Fi",53056
+5.0,Cowboy Bebop: Tengoku no Tobira,"Action, Drama, Mystery, Sci-Fi, Space",53056
+226.0,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",53056
+47.0,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",53056
+227.0,FLCL,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",53056
+12859.0,One Piece Film: Z,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",53056
+2236.0,Toki wo Kakeru Shoujo,"Adventure, Drama, Romance, Sci-Fi",53056
+245.0,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",53056
+33.0,Berserk,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",53056
